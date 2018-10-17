@@ -1,0 +1,10 @@
+body {
+	background: grey;
+}
+
+nav ul li {
+	background: black;
+	color: white;
+	list-style-type: none;
+	display:inline-block;
+}
