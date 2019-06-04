@@ -1,4 +1,4 @@
-      <?php echo "easy hoss"; ?>
+<?php echo "easy hoss"; ?>
 
 <?php
     include("includes/header.php");
