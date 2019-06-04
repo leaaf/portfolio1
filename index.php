@@ -1,5 +1,4 @@
-<!doctype html>
-<html lang="en">
+      <?php echo "easy hoss"; ?>
 
 <?php
     include("includes/header.php");
@@ -9,4 +8,3 @@
     include("includes/footer.php");
 ?>
     
-</html>
