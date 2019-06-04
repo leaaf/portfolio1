@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 AddHandler cgi-script .html .htm
+=======
+AddType application/x-httpd-php .htm .html
+>>>>>>> 2fb578a7f9899f29118b470ab30574258b1dd278
